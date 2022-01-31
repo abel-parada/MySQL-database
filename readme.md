@@ -18,7 +18,7 @@ Built with:
 
 ### In root folder: `node firstTest.js`
 
-Console will log the database, tables and values created and inserted in the script "createStatements.js" and select few of those fields with the object notation.
+Console will log the database, tables and values added, removed, or updated.
 
 ## Screenshots
 
